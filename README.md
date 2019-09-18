@@ -4,7 +4,7 @@ A workflow for Jira.
 
 ## Requirements
 
-- Alfred Version 2.
+- Alfred.
 - The Alfred [Powerpack](http://www.alfredapp.com/powerpack/).
 - [Jira.alfredworkflow](Jira.alfredworkflow?raw=true).
 

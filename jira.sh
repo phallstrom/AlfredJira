@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PREF_DIR="$HOME/Library/Application Support/Alfred 2/Workflow Data/pjkh.jira"
+PREF_DIR="$HOME/Library/Application Support/Alfred/Workflow Data/pjkh.jira"
 
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8

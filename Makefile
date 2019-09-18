@@ -1,6 +1,6 @@
 EXTENSION = Jira.alfredworkflow
 BUNDLEID = pjkh.jira
-VERSION = 0.0.1
+VERSION = 1.0.0
 SOURCE_FILES = functions.sh jira.sh icon.png info.plist
 PKG_FILES = $(SOURCE_FILES)
 
